@@ -46,8 +46,8 @@ Gosto de documentar bem meus projetos e entender o "porquê" das coisas, não s�
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucianosantos-dev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosantos-dev&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucianosantos-dev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucianosantos-dev&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
