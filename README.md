@@ -45,7 +45,7 @@ Estou construindo minha trajetória projeto por projeto e agora busco minha prim
 
 **[📑 Gerenciador de Notas Fiscais](https://github.com/lucianosantos-dev/Gerenciador-Nota-fiscais)** — Aplicação refatorada de Thymeleaf para API REST desacoplada. CRUD completo, sistema de alertas de vencimento e versionamento de banco com Flyway.
 
-**[Sistema de Agendamento](https://github.com/lucianosantos-dev/sistema-agendamento)** — API RESTful em Java/Spring Boot para gestão de horários, integrada a um modelo de Machine Learning que realiza o cálculo e a previsão de faltas (no-show) de clientes.
+**[📅 Sistema de Agendamento](https://github.com/lucianosantos-dev/sistema-agendamento)** — API RESTful em Java/Spring Boot para gestão de horários, integrada a um modelo de Machine Learning que realiza o cálculo e a previsão de faltas (no-show) de clientes.
 
 **[📚 Sistema de Gerenciamento de Biblioteca](https://github.com/lucianosantos-dev/Sistema-de-Gerenciamento-Biblioteca)** — Aplicação de console em Java aplicando POO, tratamento de exceções e persistência de dados via arquivos.
 
@@ -53,10 +53,10 @@ Estou construindo minha trajetória projeto por projeto e agora busco minha prim
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucianosantos-dev&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucianosantos-dev&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" alt="Estatísticas do GitHub do Luciano" src="https://github-readme-stats.vercel.app/api?username=lucianosantos-dev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" alt="Linguagens mais usadas pelo Luciano" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosantos-dev&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ---
 
