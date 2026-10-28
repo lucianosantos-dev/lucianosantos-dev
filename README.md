@@ -45,7 +45,7 @@ Estou construindo minha trajetória projeto por projeto e agora busco minha prim
 
 **[📑 Gerenciador de Notas Fiscais](https://github.com/lucianosantos-dev/Gerenciador-Nota-fiscais)** — Aplicação refatorada de Thymeleaf para API REST desacoplada. CRUD completo, sistema de alertas de vencimento e versionamento de banco com Flyway.
 
-**[👥 CRUD de Clientes](https://github.com/lucianosantos-dev/ds-crud-desafio)** — API REST em Java/Spring Boot (desafio DevSuperior) com paginação, tratamento de exceções personalizado e Bean Validation.
+**[Sistema de Agendamento](https://github.com/lucianosantos-dev/sistema-agendamento)** — API RESTful em Java/Spring Boot para gestão de horários, integrada a um modelo de Machine Learning que realiza o cálculo e a previsão de faltas (no-show) de clientes.
 
 **[📚 Sistema de Gerenciamento de Biblioteca](https://github.com/lucianosantos-dev/Sistema-de-Gerenciamento-Biblioteca)** — Aplicação de console em Java aplicando POO, tratamento de exceções e persistência de dados via arquivos.
 
